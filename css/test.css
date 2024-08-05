@@ -1,0 +1,71 @@
+#div2{
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 30px;
+    /* background-color: aqua; */
+    text-align: center;
+    
+}
+
+#div1{
+    text-align: center;
+}
+
+.ol{
+    text-align: center;
+}
+
+
+#main{
+    /* background-color: lightgreen; */
+    /* background: url(https://www.ahchanye.com/wp-content/uploads/2023/03/2023032311115918.png); */
+    opacity:0.8;
+    background-size: 80%;
+    background-image: url(https://www.ahchanye.com/wp-content/uploads/2023/03/2023032311115918.png);
+     /* background-image: url(背景.png); */
+    background: position x 5px;;
+}
+
+#b1{
+    /* margin: auto; */
+    /* width: 50%; */
+    /* border: 3px solid green; */
+    padding: 30px;
+    /* background-color: aqua; */
+    text-align: center;
+    background-color: pink;
+}
+
+#b2{
+    margin: auto;
+    /* width: 50%; */
+    /* border: 3px solid green; */
+    padding: 30px;
+    /* background-color: aqua; */
+    text-align: center;
+    background-color: pink;
+}
+
+
+#b3{
+    margin: auto;
+    /* width: 50%; */
+    /* border: 3px solid green; */
+    padding: 30px;
+    /* background-color: aqua; */
+    text-align: center;
+    background-color:pink;
+    
+}
+
+
+#b4{
+    margin: auto;
+    /* width: 50%; */
+    /* border: 3px solid green; */
+    padding: 30px;
+    /* background-color: aqua; */
+    text-align: center;
+    background-color: pink;
+}
